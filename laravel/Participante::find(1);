@@ -1,0 +1,27 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#6199
+    [34mall[39m: [
+      [34;4mApp\Models\Participante[39;24m {#6258
+        [34mid[39m: [35m1[39m,
+        [34mnombre[39m: "[32mCarlos López[39m",
+        [34mcorreo[39m: "[32mcarlos@example.com[39m",
+        [34mcreated_at[39m: [36mnull[39m,
+        [34mupdated_at[39m: [36mnull[39m,
+        [34mpivot[39m: [34;4mIlluminate\Database\Eloquent\Relations\Pivot[39;24m {#6261
+          [34mevento_id[39m: [35m1[39m,
+          [34mparticipante_id[39m: [35m1[39m,
+        },
+      },
+      [34;4mApp\Models\Participante[39;24m {#6260
+        [34mid[39m: [35m2[39m,
+        [34mnombre[39m: "[32mMaria García[39m",
+        [34mcorreo[39m: "[32mmaria@example.com[39m",
+        [34mcreated_at[39m: [36mnull[39m,
+        [34mupdated_at[39m: [36mnull[39m,
+        [34mpivot[39m: [34;4mIlluminate\Database\Eloquent\Relations\Pivot[39;24m {#6257
+          [34mevento_id[39m: [35m1[39m,
+          [34mparticipante_id[39m: [35m2[39m,
+        },
+      },
+    ],
+  }
+

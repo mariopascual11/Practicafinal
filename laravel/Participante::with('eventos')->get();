@@ -1,0 +1,56 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#5954
+    [34mall[39m: [
+      [34;4mApp\Models\Evento[39;24m {#6171
+        [34mid[39m: [35m1[39m,
+        [34mnombre[39m: "[32mTech Conference[39m",
+        [34mfecha[39m: "[32m2025-06-15[39m",
+        [34mlugar[39m: "[32mMadrid[39m",
+        [34msala_id[39m: [35m1[39m,
+        [34mcreated_at[39m: [36mnull[39m,
+        [34mupdated_at[39m: [36mnull[39m,
+        [34msala[39m: [34;4mApp\Models\Sala[39;24m {#6178
+          [34mid[39m: [35m1[39m,
+          [34mnombre[39m: "[32mAuditorio A[39m",
+          [34mcapacidad[39m: [35m200[39m,
+          [34mubicacion[39m: "[32mPlanta baja[39m",
+          [34mcreated_at[39m: [36mnull[39m,
+          [34mupdated_at[39m: [36mnull[39m,
+        },
+      },
+      [34;4mApp\Models\Evento[39;24m {#6172
+        [34mid[39m: [35m2[39m,
+        [34mnombre[39m: "[32mAI Summit[39m",
+        [34mfecha[39m: "[32m2025-08-20[39m",
+        [34mlugar[39m: "[32mBarcelona[39m",
+        [34msala_id[39m: [35m2[39m,
+        [34mcreated_at[39m: [36mnull[39m,
+        [34mupdated_at[39m: [36mnull[39m,
+        [34msala[39m: [34;4mApp\Models\Sala[39;24m {#6180
+          [34mid[39m: [35m2[39m,
+          [34mnombre[39m: "[32mSala B[39m",
+          [34mcapacidad[39m: [35m150[39m,
+          [34mubicacion[39m: "[32mPiso 1[39m",
+          [34mcreated_at[39m: [36mnull[39m,
+          [34mupdated_at[39m: [36mnull[39m,
+        },
+      },
+      [34;4mApp\Models\Evento[39;24m {#6173
+        [34mid[39m: [35m3[39m,
+        [34mnombre[39m: "[32mCybersecurity Forum[39m",
+        [34mfecha[39m: "[32m2025-09-10[39m",
+        [34mlugar[39m: "[32mSevilla[39m",
+        [34msala_id[39m: [35m3[39m,
+        [34mcreated_at[39m: [36mnull[39m,
+        [34mupdated_at[39m: [36mnull[39m,
+        [34msala[39m: [34;4mApp\Models\Sala[39;24m {#6181
+          [34mid[39m: [35m3[39m,
+          [34mnombre[39m: "[32mSala C[39m",
+          [34mcapacidad[39m: [35m100[39m,
+          [34mubicacion[39m: "[32mPiso 2[39m",
+          [34mcreated_at[39m: [36mnull[39m,
+          [34mupdated_at[39m: [36mnull[39m,
+        },
+      },
+    ],
+  }
+
